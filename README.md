@@ -1,5 +1,5 @@
 # Portfolio Project: Financial Analysis-Variance Model- Simple (Budget vs Actuals)
-### SURAJ PTATAP
+### Tanishq Gupta
 ### Project Role: Financial Analyst – Retail – Pet Services Industry.
 
 ## Variance Financial Model:
